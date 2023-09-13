@@ -1,3 +1,8 @@
+/*
+    Credits: www.valehismayilov.com
+    Repo: https://github.com/vlhsmylv/e-olymp-solutions
+*/
+
 #include <stdio.h>
 
 int main()
